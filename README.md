@@ -1,7 +1,4 @@
-import all
-0/1/0/slashy
-
-Pgmpiet
+import all 0/1/0/slashy Pgmpiet
 
 ==== "..i/File:Pgmpietoncrack.png" ==== <--- this is actually the name of the lang... > a.k.a "Greyscale Piet on Crack."
 PGM Piet on Crack is the name of an esolang which refers to the netpbm format for greymaps. Piet is a stack-based esoteric programming language in which programs look like abstract paintings. It uses 20 colors, of which 18 are related cyclically through a lightness cycle and a hue cycle. A single stack is used for data storage, together with some unusual operations. Pgmpiet uses 256 values, 253 of which are related linearly through a value channel and a depth channel. Pgmpiet is, however registry based.
