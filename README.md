@@ -1,6 +1,8 @@
 import all
+0/1/0/slashy
 
-Pgmpietoncracklang
+Pgmpiet
+
 ==== "..i/File:Pgmpietoncrack.png" ==== <--- this is actually the name of the lang... > a.k.a "Greyscale Piet on Crack."
 PGM Piet on Crack is the name of an esolang which refers to the netpbm format for greymaps. Piet is a stack-based esoteric programming language in which programs look like abstract paintings. It uses 20 colors, of which 18 are related cyclically through a lightness cycle and a hue cycle. A single stack is used for data storage, together with some unusual operations. Pgmpiet uses 256 values, 253 of which are related linearly through a value channel and a depth channel. Pgmpiet is, however registry based.
 
@@ -18,12 +20,6 @@ P2
 0 3 0 0 0 0 0 3 3 3 3 0 0 5 5 5 5 0 0 9 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
-Alternatively a pgmpietonpaper lang program looks like this:
-
-
-
-Contents
-1	Computational class
 1.1	Fractran (tip style)
 1.2	Program Execution(.)
 2	Times instruction pointer for map command
@@ -32,12 +28,10 @@ Computational class
 You can do Fractran with it.
 You can do .gifs with it.
 Fractran (tip style)
+
 P2
-## Compiled with GIMP v2.10.16152 436 369
-128
-
-(png in this case)
-
+x y
+z
 
 Program Execution(.)
 P2 CG Pixmap input right left uppermost right lowermost down left rightmost right leftmost left left lowermost right uppermost up left leftmost right rightmost.
