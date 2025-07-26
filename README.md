@@ -1,1 +1,87 @@
-import
+import all
+
+Pgmpietoncracklang
+==== "..i/File:Pgmpietoncrack.png" ==== <--- this is actually the name of the lang... > a.k.a "Greyscale Piet on Crack."
+PGM Piet on Crack is the name of an esolang which refers to the netpbm format for greymaps. Piet is a stack-based esoteric programming language in which programs look like abstract paintings. It uses 20 colors, of which 18 are related cyclically through a lightness cycle and a hue cycle. A single stack is used for data storage, together with some unusual operations. Pgmpiet uses 256 values, 253 of which are related linearly through a value channel and a depth channel. Pgmpiet is, however registry based.
+
+A standard program would look like a screenshot of a pgm file. e.g.
+
+P2
+(this prints feep)
+24 7
+9
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 1 1 1 1 0 0 3 3 3 3 0 0 5 5 5 5 0 0 9 9 9 9 0
+0 2 0 0 0 0 0 3 0 0 0 0 0 5 0 0 0 0 0 9 0 0 9 0
+0 2 2 2 0 0 0 3 3 3 0 0 0 5 5 5 0 0 0 9 9 9 9 0
+0 2 0 0 0 0 0 3 0 0 0 0 0 5 0 0 0 0 0 9 0 0 0 0
+0 3 0 0 0 0 0 3 3 3 3 0 0 5 5 5 5 0 0 9 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Alternatively a pgmpietonpaper lang program looks like this:
+
+
+
+Contents
+1	Computational class
+1.1	Fractran (tip style)
+1.2	Program Execution(.)
+2	Times instruction pointer for map command
+3	Further Reading
+Computational class
+You can do Fractran with it.
+You can do .gifs with it.
+Fractran (tip style)
+P2
+## Compiled with GIMP v2.10.16152 436 369
+128
+
+(png in this case)
+
+
+Program Execution(.)
+P2 CG Pixmap input right left uppermost right lowermost down left rightmost right leftmost left left lowermost right uppermost up left leftmost right rightmost.
+
+(this outputs ".")
+
+Times instruction pointer for map command
+Initial IP: P
+Program: [G/t 101110 3 6 0 19]
+
+Further Reading
+PGM(Pbmplus)
+Piet
+Registry based machine
+Fractran
+Tip
+GIF
+Insight
+Tupper
+
+Implementation:
+Suggested Environment:
+Precipitation
+Ion_implantation
+Memristance
+26Fe
+TiO2
+Semiconductor Type Class
+Steel
+Super chilled cobalt-tin microstructures
+18Ar
+Atomic clock
+The Waterfall Model
+
+
+
+Imperative:
+Object Oriented Dark Matter Computer
+Logic Defined Static Analysis
+[working on compiler zobie211 18:32, 24 July 2025 (UTC)]
+
+Hello, World!
+
+This page was last edited on 26 July 2025, at 19:54.
+Content is available under CC0 public domain dedication.
+About EsolangDisclaimers
+CC0.0.0.0.0.1 public domain
