@@ -1,3 +1,7 @@
+P2
+x y
+z
+
 import all 0/1/0/slashy Pgmpiet
 
 ==== "..i/File:Pgmpietoncrack.png" ==== <--- this is actually the name of the lang... > a.k.a "Greyscale Piet on Crack."
@@ -30,10 +34,10 @@ P2
 x y
 z
 
-Program Execution(.)
+Program Execution:
 P2 CG Pixmap input right left uppermost right lowermost down left rightmost right leftmost left left lowermost right uppermost up left leftmost right rightmost.
 
-(this outputs ".")
+output:(.)
 
 Times instruction pointer for map command
 Initial IP: P
@@ -50,29 +54,22 @@ Insight
 Tupper
 
 Implementation:
-Suggested Environment:
-Precipitation
-Ion_implantation
-Memristance
-26Fe
-TiO2
-Semiconductor Type Class
-Steel
-Super chilled cobalt-tin microstructures
-18Ar
-Atomic clock
-The Waterfall Model
+Suggested Environment: scala lang env
+lookup Precipitation
+lookup Ion_implantation
+lookup Memristance
+lookup 26Fe
+lookup TiO2
+lookup Semiconductor Type Class
+lookup Steel
+lookup Super chilled cobalt-tin microstructures
+lookup 18Ar
+lookup Atomic clock
+lookup The Waterfall Model
 
-
-
-Imperative:
-Object Oriented Dark Matter Computer
+Imperative: haskell lang
 Logic Defined Static Analysis
-[working on compiler zobie211 18:32, 24 July 2025 (UTC)]
+Object Oriented Dark Matter Computer
 
-Hello, World!
-
-This page was last edited on 26 July 2025, at 19:54.
 Content is available under CC0 public domain dedication.
-About EsolangDisclaimers
-CC0.0.0.0.0.1 public domain
+EsolangDisclaimer.                                                           .
