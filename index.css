@@ -1,0 +1,30 @@
+body {
+    font-family:"Lucida Console", Monaco, monospace;
+    color: #F81894;
+    background: #000;
+    max-width: 95%;
+    line-height:0.69;
+    font-size:5px;
+    padding:0 0px;
+}
+
+a {
+  color: #F81894;
+     font-size:17px;
+    text-decoration: none;
+}
+
+a:hover {
+  background-color: #F81894;
+    text-decoration: none;
+}
+
+a:active {
+  background-color: #F81894;
+    text-decoration: none;
+}
+
+a:visited {
+  background-color: #F81894;
+    text-decoration: none;
+}
