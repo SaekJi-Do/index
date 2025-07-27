@@ -1,7 +1,6 @@
-|P2||
-| | |
-|x|y|
-|z ||
+P2
+75 81
+4
 
 import all 0/1/0/slashy Pgmpiet
 
@@ -73,4 +72,4 @@ Logic Defined Static Analysis
 Object Oriented Dark Matter Computer
 
 Content is available under CC0 public domain dedication.
-EsolangDisclaimer.                                                           .
+EsolangDisclaimer.                                                              .
