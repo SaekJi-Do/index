@@ -1,6 +1,7 @@
-P2
-x y
-z
+|P2||
+| | |
+|x|y|
+|z ||
 
 import all 0/1/0/slashy Pgmpiet
 
