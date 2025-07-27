@@ -1,0 +1,75 @@
+P2
+75 81
+4
+
+import all 0/1/0/slashy Pgmpiet
+
+==== "..i/File:Pgmpietoncrack.png" ==== <--- this is actually the name of the lang... > a.k.a "Greyscale Piet on Crack."
+PGM Piet on Crack is the name of an esolang which refers to the netpbm format for greymaps. Piet is a stack-based esoteric programming language in which programs look like abstract paintings. It uses 20 colors, of which 18 are related cyclically through a lightness cycle and a hue cycle. A single stack is used for data storage, together with some unusual operations. Pgmpiet uses 256 values, 253 of which are related linearly through a value channel and a depth channel. Pgmpiet is, however registry based.
+
+A standard program would look like a screenshot of a pgm file. e.g.
+
+P2
+(this prints feep)
+24 7
+9
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 1 1 1 1 0 0 3 3 3 3 0 0 5 5 5 5 0 0 9 9 9 9 0
+0 2 0 0 0 0 0 3 0 0 0 0 0 5 0 0 0 0 0 9 0 0 9 0
+0 2 2 2 0 0 0 3 3 3 0 0 0 5 5 5 0 0 0 9 9 9 9 0
+0 2 0 0 0 0 0 3 0 0 0 0 0 5 0 0 0 0 0 9 0 0 0 0
+0 3 0 0 0 0 0 3 3 3 3 0 0 5 5 5 5 0 0 9 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+1.1	Fractran (tip style)
+1.2	Program Execution(.)
+2	Times instruction pointer for map command
+3	Further Reading
+Computational class
+You can do Fractran with it.
+You can do .gifs with it.
+Fractran (tip style)
+
+P2
+x y
+z
+
+Program Execution:
+P2 CG Pixmap input right left uppermost right lowermost down left rightmost right leftmost left left lowermost right uppermost up left leftmost right rightmost.
+
+output:(.)
+
+Times instruction pointer for map command
+Initial IP: P
+Program: [G/t 101110 3 6 0 19]
+
+Further Reading
+PGM(Pbmplus)
+Piet
+Registry based machine
+Fractran
+Tip
+GIF
+Insight
+Tupper
+
+Implementation:
+Suggested Environment: scala lang env
+lookup Precipitation
+lookup Ion_implantation
+lookup Memristance
+lookup 26Fe
+lookup TiO2
+lookup Semiconductor Type Class
+lookup Steel
+lookup Super chilled cobalt-tin microstructures
+lookup 18Ar
+lookup Atomic clock
+lookup The Waterfall Model
+
+Imperative: haskell lang
+Logic Defined Static Analysis
+Object Oriented Dark Matter Computer
+
+Content is available under CC0.0.0.0.1 public domain dedication. Federal limits apply.
+Esolang disclaimer.
